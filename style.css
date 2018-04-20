@@ -1,0 +1,25 @@
+body {
+	font-family: Roboto, sans-serif;
+	background: #cccccc;
+}
+
+h1 {
+	font-family: Roboto, sans-serif;
+	font-weight: 800;
+}
+
+h2 {
+	font-family: Roboto, sans-serif;
+	font-weight: 800;
+}
+
+button {
+	background: #f0f0f0;
+	font-family: arial;
+	height: 50px;
+	padding: 15px;
+}
+
+button:hover {
+	background: #afafaf;
+}
